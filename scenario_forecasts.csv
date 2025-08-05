@@ -1,0 +1,4 @@
+Store,Holiday_Flag,Temperature,Fuel_Price,CPI,Unemployment,Super_Bowl,Thanksgiving,Christmas,lag_1,lag_2,lag_3,rolling_mean_4,Month,Week,Year,DayOfWeek,Season,Time_Index,sales_change,CPI_Unemployment,Temperature_Fuel,Store_Avg_Sales,Sales_vs_Store_Avg,Predicted_Sales
+1,0,50,3.0,220,7.5,0,0,0,2000000,1950000,1980000,1982500,2,6,2013,5,1,150,0,1650.0,150.0,2000000,1,1972426.5
+1,1,50,3.0,220,7.5,1,0,0,2000000,1950000,1980000,1982500,2,6,2013,5,1,150,0,1650.0,150.0,2000000,1,2004732.6
+1,0,-5,3.0,220,7.5,0,0,0,2000000,1950000,1980000,1982500,1,3,2013,5,0,150,0,1650.0,-15.0,2000000,1,1928077.5
